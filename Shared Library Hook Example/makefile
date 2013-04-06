@@ -1,0 +1,1 @@
+g++ -shared -fpic dlhook.cpp -o dlhook.so
